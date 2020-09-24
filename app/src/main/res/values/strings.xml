@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Guias</string>
+    <string name="welcome_message">Bienvenido a Android UCB</string>
+    <string name="after">Siguiente</string>
+    <string name="before">Anterior</string>
+    <!-- Vars Colors -->
+    <string name="title_colors">Cambio de Colores</string>
+    <string name="red">ROJO</string>
+    <string name="white">BLANCO</string>
+
+    <!-- Vars TextView -->
+    <string name="title_text_view">Mi Aplicacion de Negocios</string>
+    <string name="services">SERVICIOS</string>
+    <string name="briefcase">PORTAFOLIO</string>
+    <string name="about">ACERCA DE</string>
+    <string name="contact">CONTACTO</string>
+    <string name="social_networks">REDES SOCIALES</string>
+    <string name="button_selected">Boton Seleccionado:</string>
+    <string name="message_text_view"></string>
+
+    <!-- Vars ToolBar -->
+    <string name="toolbar_name">My Toolbar</string>
+
+    <!---->
+    <string name="mensaje_snackbar">SnackBarKotlin Example</string>
+    <string name="user1">John</string>
+    <string name="email1">john@gmail.com</string>
+    <string name="user2">Andrew</string>
+    <string name="email2">andrew@gmail.com</string>
+    <string name="user3">Kunal</string>
+    <string name="email3">kunal@gmail.com</string>
+</resources>
